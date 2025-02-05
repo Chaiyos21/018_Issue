@@ -10,7 +10,7 @@
         </tr>
         <tr>
             <td width="1007" bgcolor="#FFFFFF">
-                <img src="images/map.gif">
+                <img src="images/map.gif">0001
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>00001
